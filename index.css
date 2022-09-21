@@ -1,0 +1,53 @@
+.header-div{
+    display: flex;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: rgb(226, 216, 216);
+    height: 70px;
+    align-items: center;
+    z-index: 100px;
+
+}
+
+.body{
+    margin-top: 100px;
+}
+.logo-div{
+    display: flex;
+    flex: 1;
+}
+.logo-pic{
+    height: 60px;
+}
+.description-div{
+    display: flex;
+    flex: 1;
+}
+.profile-div{
+    display: flex;
+    flex: 1;
+}
+.description{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    
+}
+.span{
+    color: red;
+}
+.profile-pic{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+.profile-name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.homepage-pic{
+    height: 500px;
+}

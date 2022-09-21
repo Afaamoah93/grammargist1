@@ -1,0 +1,15 @@
+.about-pic{
+    height: 500px;
+}
+.about-div{
+    display: grid;
+    grid-template-columns: 500px 1fr;
+}
+.about-description{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: rgb(190, 127, 127);
+    font-style: italic;
+}
+
+    

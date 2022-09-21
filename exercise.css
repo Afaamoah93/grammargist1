@@ -1,0 +1,20 @@
+.lessons-div{
+    display: grid;
+    grid-template-columns: 500px 500px 500px 500px 500px;
+    margin-top: 20px;
+}
+.lesson-one{
+    column-gap: 0px;
+    row-gap: 0px;
+}
+.grammargist-one{
+    height: 500px;
+}
+.body{
+    margin-left: 0px;
+
+}
+@media (max-width: 750px)  {
+    .lessons-div{
+        grid-template-columns: 1fr 1fr;
+    }
