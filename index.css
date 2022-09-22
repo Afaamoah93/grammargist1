@@ -51,3 +51,6 @@
 .homepage-pic{
     height: 500px;
 }
+.home-div{
+    display: grid;
+}
