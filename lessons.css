@@ -18,5 +18,7 @@
     .lessons-div{
         grid-template-columns: 1fr 1fr;
     }
-    
+    .home-div{
+    display: grid;
 }
+    
